@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Brain Trainer</string>
+    <string name="thirty_seconds">30s</string>
+    <string name="deafault_task">2 + 3</string>
+    <string name="deafault_score">0/0</string>
+    <string name="go">GO!</string>
+    <string name="answer">ANSWER</string>
+    <string name="ten">10</string>
+    <string name="try_again">Try again!</string>
+    <string name="final_score">Score: </string>
+
+</resources>
